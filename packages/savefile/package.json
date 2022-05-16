@@ -6,6 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatretrodev/stajs.git"
+  },
+  "keywords": [
+    "supertuxadvance",
+    "stajs"
+  ],
   "author": "thatretrodev",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thatretrodev/stajs/issues"
+  },
+  "homepage": "https://github.com/thatretrodev/stajs#readme"
 }
