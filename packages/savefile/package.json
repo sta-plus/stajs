@@ -1,6 +1,6 @@
 {
   "name": "@stajs/savefile",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A JavaScript implementation of SuperTux Advance savefiles.",
   "main": "index.js",
   "scripts": {
