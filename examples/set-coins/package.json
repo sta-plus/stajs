@@ -1,0 +1,14 @@
+{
+  "name": "set-coins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thatretrodev",
+  "license": "MIT",
+  "dependencies": {
+    "@stajs/savefile": "file:../../packages/savefile"
+  }
+}
