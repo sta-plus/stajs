@@ -37,7 +37,7 @@ class Savefile {
 		this.savedata.playerChar = character;
 	}
 
-	setCharacter() {
+	getCharacter() {
 		return this.savedata.playerChar;
 	}
 
